@@ -1,6 +1,3 @@
-# Calculator
-- Simple calculator project
-
 # Calculator App
 
 A simple calculator application built with Python and Kivy, packaged for Android using Buildozer. This app supports basic arithmetic operations and is designed for Android deployment.
