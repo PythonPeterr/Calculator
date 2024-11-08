@@ -19,6 +19,13 @@ A simple calculator application built with Python and Kivy, packaged for Android
 - Buildozer (`pip install buildozer`)
 - Android SDK and NDK (required for building APKs)
 
+- ## Installing Dependencies
+
+After activating the virtual environment, install the dependencies:
+
+```bash
+pip install -r requirements.txt
+
 ## Installation
 
 1. Clone this repository:
